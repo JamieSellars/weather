@@ -12541,11 +12541,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\jsellars\\code\\weather\\weather.csproj",
-      "projectName": "weather",
-      "projectPath": "c:\\Users\\jsellars\\code\\weather\\weather.csproj",
+      "projectUniqueName": "c:\\Users\\jsellars\\code\\Weather\\Weather.csproj",
+      "projectName": "Weather",
+      "projectPath": "c:\\Users\\jsellars\\code\\Weather\\Weather.csproj",
       "packagesPath": "C:\\Users\\jsellars\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\jsellars\\code\\weather\\obj\\",
+      "outputPath": "c:\\Users\\jsellars\\code\\Weather\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
